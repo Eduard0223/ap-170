@@ -183,5 +183,5 @@ while (not salir):
             print(f"El producto {nom} no está en el inventario")
     if op == "6": 
         salir = True
-        print("Hasta luego")
+        print("Hasta Mañana")
     
